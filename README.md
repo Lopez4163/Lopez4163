@@ -3,7 +3,6 @@
 </p>
 
 <h2 align="center">👋 Welcome To My Realm! My Name's Nick!!</h2>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Lopez4163&theme=dark&hide_border=true)](https://git.io/streak-stats)
 <h3 align="center">
   🎖️ Marine veteran | 🥋 Part-time martial artist | 💻 Aspiring developer
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Lopez4163&theme=dark&hide_border=true)](https://git.io/streak-stats)
@@ -32,7 +31,7 @@
   - [Twitter](https://twitter.com/yourhandle/)<br>
   - [Personal Website](https://yourwebsite.com/)
 </p>
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Lopez4163&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 
 

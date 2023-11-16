@@ -3,6 +3,7 @@
 </p>
 
 <h2 align="center">👋 Welcome To My Realm! My Name's Nick!!</h2>
+
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Lopez4163&theme=git-dark&hide_border=true)](https://git.io/streak-stats)
 
 <h3 align="center">

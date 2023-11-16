@@ -8,12 +8,11 @@
   🎖️ Marine veteran | 🥋 Part-time martial artist | 💻 Aspiring developer
 </h3>
 
-I'm a passionate developer with a love for coding and creating innovative solutions. My journey in the world of technology has led me to explore [mention a few key interests or technologies]. Whether I'm working on [mention a project or goal] or diving into the latest tech trends, I'm always excited about the possibilities of what we can build together.
+Simply put, im passionate going down rabbit holes, spending hours on the computer trying to figure out why betterJsPop keeps showing up on my console, the passion is the grind, the relentlessness on completeing the project. It never ends.
 
 ### 💼 Currently, I am:
-- Exploring [mention what you're currently working on or learning].
-- Collaborating on [mention any collaborative projects].
-- Building [mention any personal or side projects].
+- Attending Code up Web Developement Bootcamp in SA, TX:cowboy_hat_face:	
+- Building a UFO Sightings Map
 
 ### 🚀 My Tech Stack:
 - Languages: [List your programming languages]

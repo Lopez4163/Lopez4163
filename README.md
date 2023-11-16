@@ -1,5 +1,5 @@
-### Hi there 👋
-  <img align="right" alt="Coding" width="400" src="https://cdn4.whatculture.com/images/2015/09/BMcKRFsj-600x338.jpg">
+![Nick's GitHub Banner](https://cdn4.whatculture.com/images/2015/09/BMcKRFsj-600x338.jpg)
+
 
 
 <!--

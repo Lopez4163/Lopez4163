@@ -14,21 +14,21 @@
 
 <p align="center">
   💼 **Currently, I am:**
-  - Attending Codeup Web Development Bootcamp in SA, TX :cowboy_hat_face:
+  - Attending Codeup Web Development Bootcamp in SA, TX :cowboy_hat_face:<br>
   - Building a UFO Sightings Map :alien:
 </p>
 
 <p align="center">
-  🚀 **My Tech Stack:**
-  - Languages: JavaScript, HTML, CSS, Node.js, MySql
-  - Frameworks: React
+  🚀 **My Tech Stack:**<br>
+  - Languages: JavaScript, HTML, CSS, Node.js, MySql<br>
+  - Frameworks: React<br>
   - Tools: AWS
 </p>
 
 <p align="center">
-  📫 **Let's Connect!**
-  - [LinkedIn](https://www.linkedin.com/in/yourprofile/)
-  - [Twitter](https://twitter.com/yourhandle/)
+  📫 **Let's Connect!**<br>
+  - [LinkedIn](https://www.linkedin.com/in/yourprofile/)<br>
+  - [Twitter](https://twitter.com/yourhandle/)<br>
   - [Personal Website](https://yourwebsite.com/)
 </p>
 

@@ -6,7 +6,7 @@
 
 <h1 align="center">:vulcan_salute: Welcome To My Realm! My Name's Nick!! :vulcan_salute:	</h1>
 <h2 align="center">
-  🎖️ Marine veteran | 🥋 Part-time martial artist | 💻 Aspiring developer
+  🎖️ Marine Veteran | 🥋 Part-Time Martial Artist | 💻 Aspiring Developer
 </h2>
 
 <p align="center">

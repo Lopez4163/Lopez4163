@@ -11,13 +11,13 @@
 Simply put, im passionate going down rabbit holes, spending hours on the computer trying to figure out why betterJsPop keeps showing up on my console, the passion is the grind, the relentlessness on completeing the project. It never ends.
 
 ### 💼 Currently, I am:
-- Attending Code up Web Developement Bootcamp in SA, TX:cowboy_hat_face:	
-- Building a UFO Sightings Map
+- Attending Code up Web Developement Bootcamp in SA, TX :cowboy_hat_face:	
+- Building a UFO Sightings Map :alien:	
 
 ### 🚀 My Tech Stack:
-- Languages: [List your programming languages]
-- Frameworks: [List frameworks you're familiar with]
-- Tools: [Mention any development tools]
+- Languages: JavaScript, HTML, CSS, Node.js, MySql
+- Frameworks: React
+- Tools: AWS
 
 ### 📫 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/yourprofile/)

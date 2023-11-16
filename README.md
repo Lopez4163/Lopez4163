@@ -13,11 +13,10 @@
   Simply put, I'm passionate about going down rabbit holes, spending hours on the computer trying to figure out why BetterJsPop keeps showing up on my console. The passion is the grind, the relentlessness on completing the project. It never ends.
 </p>
 <p align="center">
-  💼 **Currently, I am:**
+  💼 **Currently, I am:**<br>
   - Attending Codeup Web Development Bootcamp in SA, TX :cowboy_hat_face:<br>
   - Building a UFO Sightings Map :alien:
 </p>
-<br></br>
 <p align="center">
   🚀 **My Tech Stack:**<br>
   - Languages: JavaScript, HTML, CSS, Node.js, MySql<br>

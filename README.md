@@ -2,7 +2,7 @@
   <img src="https://cdn4.whatculture.com/images/2015/09/BMcKRFsj-600x338.jpg" alt="Nick's GitHub Banner" width="80%">
 </p>
 
-<h2 align="center">👋 Welcome To My Realm! My Name's Nick!!</h2>
+<h2 align="center">:vulcan_salute: Welcome To My Realm! My Name's Nick!! :vulcan_salute:	</h2>
 <h3 align="center">
   🎖️ Marine veteran | 🥋 Part-time martial artist | 💻 Aspiring developer
 </h3>

@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://cdn4.whatculture.com/images/2015/09/BMcKRFsj-600x338.jpg" alt="Nick's GitHub Banner" width="80%">
+  <img src="https://cdn4.whatculture.com/images/2015/09/BMcKRFsj-600x338.jpg" alt="Nick's GitHub Banner" width="60%">
 </p>
+
 
 <h1 align="center">:vulcan_salute: Welcome To My Realm! My Name's Nick!! :vulcan_salute:	</h1>
 <h2 align="center">

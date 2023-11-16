@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwhatculture.com%2Fwwe%2F9-insane-real-life-scott-steiner-stories%3Fpage%3D9&psig=AOvVaw2-FMrAYK79MVOYMFhq-yBu&ust=1700242948585000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPixutqIyYIDFQAAAAAdAAAAABAE](https://github.com/Lopez4163)
+  <img align="right" alt="Coding" width="400" src="https://cdn4.whatculture.com/images/2015/09/BMcKRFsj-600x338.jpg">
 
 
 <!--

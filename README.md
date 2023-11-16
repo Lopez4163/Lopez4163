@@ -17,7 +17,7 @@
   - Attending Codeup Web Development Bootcamp in SA, TX :cowboy_hat_face:<br>
   - Building a UFO Sightings Map :alien:
 </p>
-
+<br></br>
 <p align="center">
   🚀 **My Tech Stack:**<br>
   - Languages: JavaScript, HTML, CSS, Node.js, MySql<br>

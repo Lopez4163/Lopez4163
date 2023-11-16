@@ -33,6 +33,6 @@
 </p>
 
 <p align="center">
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Lopez4163&theme=git-dark&hide_border=true)](https://git.io/streak-stats)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Lopez4163&theme=shadow-red&hide_border=true)](https://git.io/streak-stats)
 </p>
 

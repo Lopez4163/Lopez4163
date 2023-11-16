@@ -24,5 +24,5 @@ Simply put, im passionate going down rabbit holes, spending hours on the compute
 - [Twitter](https://twitter.com/yourhandle/)
 - [Personal Website](https://yourwebsite.com/)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Lopez4163&theme=onedark-duo&hide_border=true)](https://git.io/streak-stats)
 

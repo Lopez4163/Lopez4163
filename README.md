@@ -11,7 +11,7 @@
 <p align="center">
   Simply put, I'm passionate about going down rabbit holes, spending hours on the computer trying to figure out why BetterJsPop keeps showing up on my console. The passion is the grind, the relentlessness on completing the project. It never ends.
 </p>
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Lopez4163&theme=blood-dark&hide_border=true)](https://git.io/streak-stats)
 <p align="center">
   💼 **Currently, I am:**
   - Attending Codeup Web Development Bootcamp in SA, TX :cowboy_hat_face:<br>
@@ -31,7 +31,3 @@
   - [Twitter](https://twitter.com/yourhandle/)<br>
   - [Personal Website](https://yourwebsite.com/)
 </p>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Lopez4163&theme=blood-dark&hide_border=true)](https://git.io/streak-stats)
-
-
-

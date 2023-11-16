@@ -4,9 +4,9 @@
 
 <h2 align="center">👋 Welcome To My Realm! My Name's Nick!!</h2>
 
-<p align="center">
+<h3 align="center">
   🎖️ Marine veteran | 🥋 Part-time martial artist | 💻 Aspiring developer
-</p>
+</h3>
 
 I'm a passionate developer with a love for coding and creating innovative solutions. My journey in the world of technology has led me to explore [mention a few key interests or technologies]. Whether I'm working on [mention a project or goal] or diving into the latest tech trends, I'm always excited about the possibilities of what we can build together.
 

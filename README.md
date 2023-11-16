@@ -15,7 +15,7 @@
 <p align="center">
   💼 **Currently, I am:**<br>
   - Attending Codeup Web Development Bootcamp in SA, TX :cowboy_hat_face:<br>
-  - Building a UFO Sightings Map :alien:
+  - Building a UFO Sightings Map :alien:<br>
 </p>
 <p align="center">
   🚀 **My Tech Stack:**<br>

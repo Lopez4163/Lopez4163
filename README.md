@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://cdn4.whatculture.com/images/2015/09/BMcKRFsj-600x338.jpg" alt="Nick's GitHub Banner">
+  <img src="https://cdn4.whatculture.com/images/2015/09/BMcKRFsj-600x338.jpg" alt="Nick's GitHub Banner" width="80%">
 </p>
+
 
 
 

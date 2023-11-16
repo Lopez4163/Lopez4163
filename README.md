@@ -2,10 +2,10 @@
   <img src="https://cdn4.whatculture.com/images/2015/09/BMcKRFsj-600x338.jpg" alt="Nick's GitHub Banner" width="80%">
 </p>
 
-<h2 align="center">:vulcan_salute: Welcome To My Realm! My Name's Nick!! :vulcan_salute:	</h2>
-<h3 align="center">
+<h1 align="center">:vulcan_salute: Welcome To My Realm! My Name's Nick!! :vulcan_salute:	</h1>
+<h2 align="center">
   🎖️ Marine veteran | 🥋 Part-time martial artist | 💻 Aspiring developer
-</h3>
+</h2>
 
 <p align="center">
   Simply put, I'm passionate about going down rabbit holes, spending hours on the computer trying to figure out why BetterJsPop keeps showing up on my console. The passion is the grind, the relentlessness on completing the project. It never ends.

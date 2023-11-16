@@ -3,11 +3,12 @@
 </p>
 
 <h2 align="center">👋 Welcome To My Realm! My Name's Nick!!</h2>
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Lopez4163&theme=git-dark&hide_border=true)](https://git.io/streak-stats)
 
 <h3 align="center">
   🎖️ Marine veteran | 🥋 Part-time martial artist | 💻 Aspiring developer
 
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Lopez4163&theme=git-dark&hide_border=true)](https://git.io/streak-stats)
+ 
 </h3>
 
 Simply put, I'm passionate about going down rabbit holes, spending hours on the computer trying to figure out why BetterJsPop keeps showing up on my console. The passion is the grind, the relentlessness on completing the project. It never ends.
@@ -25,7 +26,3 @@ Simply put, I'm passionate about going down rabbit holes, spending hours on the 
 - [LinkedIn](https://www.linkedin.com/in/yourprofile/)
 - [Twitter](https://twitter.com/yourhandle/)
 - [Personal Website](https://yourwebsite.com/)
-
-<br> <!-- Add an empty line for separation -->
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Lopez4163&theme=git-dark&hide_border=true)](https://git.io/streak-stats)

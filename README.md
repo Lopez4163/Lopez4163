@@ -3,7 +3,7 @@
 
 <h1 align="center">:vulcan_salute: Welcome To My Realm! My Name's Nick!! :vulcan_salute:	</h1>
 <h2 align="center">
-  🎖️ Marine Veteran | 🥋 Part-Time Martial Artist | 💻 Developer
+  🎖️ USMC Veteran | 🥋 Part-Time Martial Artist | 💻 Developer
 </h2>
 
 <p align="center">

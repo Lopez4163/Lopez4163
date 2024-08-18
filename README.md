@@ -1,9 +1,9 @@
 
 
 
-<h1 align="center">:vulcan_salute: Welcome To My Realm! My Name's Nick!! :vulcan_salute:	</h1>
+<h1 align="center">:vulcan_salute: Welcome! :vulcan_salute:	</h1>
 <h2 align="center">
-  🎖️ USMC Veteran | 🥋 Part-Time Martial Artist | 💻 Developer
+  🎖️ USMC Veteran | 💻 Developer
 </h2>
 
 <p align="center">
@@ -13,8 +13,8 @@
 <p align="center">
   📫 **Let's Connect!**<br>
   - [LinkedIn](https://www.linkedin.com/in/yourprofile/)<br>
-  - [Twitter](https://twitter.com/yourhandle/)<br>
-  - [Personal Website](https://yourwebsite.com/)
+  - [Personal Website]
+  www.nicholaslopez.work
 </p>
 <p align="center">
   <a href="https://git.io/streak-stats">

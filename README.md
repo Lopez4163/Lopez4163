@@ -4,7 +4,7 @@
 <h1 align="center">:vulcan_salute: Welcome! :vulcan_salute:	</h1>
 <h2 align="center">
   🎖️ USMC Veteran | 
-  💻 Developer
+  💻 Computer Nerd 
 </h2>
 
 <p align="center">

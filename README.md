@@ -137,13 +137,5 @@ This environment allows me to test infrastructure patterns, networking, and depl
 ## 📈 GitHub Activity
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lopez4163&layout=compact&theme=github_dark&hide_border=true" />
-
-</p>
-
----
-
-<p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Lopez4163&theme=windows-dark&hide_border=true" />
 </p>

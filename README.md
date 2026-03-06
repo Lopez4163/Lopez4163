@@ -128,7 +128,7 @@ This environment allows me to test infrastructure patterns, networking, and depl
 ## 📫 Connect With Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/nicholaslopez97/](https://www.linkedin.com/in/nicholas-lopez-83b031299/">LinkedIn</a> •
+<a href="https://www.linkedin.com/in/nicholas-lopez-83b031299/">LinkedIn</a> •
 <a href="https://www.nicholaslopez.work">Portfolio</a>
 </p>
 

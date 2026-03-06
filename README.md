@@ -1,59 +1,151 @@
-<h1 align="center">🖖 Welcome — I'm Nicholas Lopez 🖖</h1>
+<h1 align="center">Hi — I'm Nicholas Lopez 👋</h1>
 
-<h2 align="center">
-  🎖️ U.S. Marine Corps Veteran • 💻 Software Engineer • 🔧 IT Systems Builder
-</h2>
+<h3 align="center">
+Full Stack Engineer • Platform & Infrastructure Builder
+</h3>
 
 <p align="center">
-  I’m a software engineer with a strong foundation in discipline, problem-solving, and technical execution — shaped by my service in the U.S. Marine Corps and sharpened through hands-on engineering work.
-  I specialize in building full-stack applications, dashboards, cloud-ready systems, and real-world technical solutions end-to-end.
+Software engineer focused on building real-world systems from the ground up — 
+from frontend interfaces to backend services and the infrastructure that runs them.
+</p>
+
+<p align="center">
+U.S. Marine Corps Veteran bringing discipline, ownership, and execution to engineering.
 </p>
 
 ---
 
 ## 🚀 About Me
-- 🎓 **BTech in Computer Systems (Networking & Security)** — NYC College of Technology  
-- 🎓 **Fullstack Academy Graduate** — Fullstack Web Development Program  
-- 🎖 **U.S. Marine Corps Veteran** — teamwork, adaptability, and relentless work ethic  
-- 🏗️ **Founder of Queens Tech Bros** — IT networking, UniFi systems, low-voltage installs  
-- 🧪 **Engineering Projects** spanning full-stack dev, ML, cloud infra, and real-time systems  
-- 🖥️ **HomeLab Engineer** — Docker, Linux, NGINX, VPN, self-hosted services
+
+- 💻 **Full Stack Engineer** building modern web applications
+- ⚙️ **Platform & Infrastructure Engineer** experienced in deploying systems end-to-end
+- 🎓 **BTech – Computer Systems (Networking & Security)**  
+  NYC College of Technology
+- 🎓 **Fullstack Academy Graduate**
+- 🔧 **Founder — Queens Tech Bros** (networking, UniFi systems, low-voltage installs)
+- 🧪 Builder of projects across **data systems, full-stack apps, ML pipelines, and infrastructure**
+- 🖥️ **HomeLab Engineer** running self-hosted services and containerized applications
 
 ---
 
-## 🏆 Technical Highlights
-- Built a **Real Estate Market Tracker** with:  
-  🟣 Next.js 15 • Prisma • Neon Postgres • RentCast API snapshots • Dynamic dashboards  
-- Built **AI Buy of the Day**, an ML pipeline predicting top stocks/crypto daily using:  
-  🟡 Ridge Regression • FastAPI • Cron jobs • Caching • Automated scoring  
-- Developed a **Drone Telemetry Dashboard (Rust)** with:  
-  🟠 Real-time UDP listener • EMA smoothing • time-faded visual trails • Rust + egui  
-- Designed and deployed multiple **production-grade networks** for small businesses  
-- Created a full **home-lab environment** for learning + hosting web apps and containers  
+## 🧠 Engineering Focus
+
+I enjoy building systems end-to-end:
+
+- Designing **full-stack web applications**
+- Creating **data pipelines and dashboards**
+- Deploying **cloud-ready infrastructure**
+- Running **self-hosted services and container environments**
+- Building tools that combine **software + real-world systems**
+
+---
+
+## 🏗 Featured Projects
+
+### 📊 Real Estate Market Tracker
+A full-stack platform analyzing housing market data with historical snapshots and dynamic dashboards.
+
+**Stack**
+
+Next.js 15  
+Prisma ORM  
+Neon Postgres  
+RentCast API  
+TypeScript  
+Server Actions
+
+Features:
+
+- Market trend analysis
+- Property data snapshots
+- Dynamic dashboards
+- Data ingestion pipeline
+
+---
+
+### 🌎 Mercado Libre App
+Full-stack marketplace data application built around the Mercado Libre ecosystem.
+
+Features include:
+
+- Marketplace data exploration
+- Product insights and search tools
+- Full stack application architecture
+- API-driven data workflows
 
 ---
 
 ## 🧰 Tech Stack
-**Frontend:** React, Next.js, TypeScript, Tailwind  
-**Backend:** Node.js, FastAPI, Prisma, PostgreSQL, Redis  
-**Infra / DevOps:** Docker, Linux, NGINX, WireGuard, CI/CD  
-**Other:** Python, Rust, ML workflows, structured networking
+
+**Frontend**
+
+- React
+- Next.js
+- TypeScript
+- TailwindCSS
+
+**Backend**
+
+- Node.js
+- FastAPI
+- Prisma
+- PostgreSQL
+- Redis
+
+**Infrastructure / DevOps**
+
+- Docker
+- Linux
+- NGINX
+- WireGuard
+- CI/CD pipelines
+
+**Languages**
+
+- TypeScript
+- Python
+- Rust
+- JavaScript
+
+---
+
+## 🖥 HomeLab & Infrastructure
+
+I maintain a home lab environment used for experimentation and hosting applications.
+
+Technologies and systems include:
+
+- Docker container environments
+- Reverse proxy architecture with NGINX
+- VPN networking with WireGuard
+- Linux server administration
+- Self-hosted services and monitoring
+
+This environment allows me to test infrastructure patterns, networking, and deployment strategies in a real-world environment.
 
 ---
 
 ## 📫 Connect With Me
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/nicholaslopez97/">LinkedIn</a> •  
-  <a href="https://www.nicholaslopez.work">Portfolio Website</a>
+<a href="https://www.linkedin.com/in/nicholaslopez97/">LinkedIn</a> •
+<a href="https://www.nicholaslopez.work">Portfolio</a>
+</p>
+
+---
+
+## 📈 GitHub Activity
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Lopez4163&show_icons=true&theme=github_dark&hide_border=true" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lopez4163&layout=compact&theme=github_dark&hide_border=true" />
+
 </p>
 
 ---
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img 
-      src="https://github-readme-streak-stats.herokuapp.com?user=Lopez4163&theme=windows-dark&hide_border=true"
-      alt="GitHub Streak"
-    />
-  </a>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Lopez4163&theme=windows-dark&hide_border=true" />
 </p>
